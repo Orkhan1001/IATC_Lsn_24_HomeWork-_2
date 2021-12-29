@@ -1,0 +1,19 @@
+body{
+    background-color: #111;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tMyDIV{
+    background-color: darkslategray;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+}
+
+.onclickEffect{
+    background-color: darkturquoise;
+}
